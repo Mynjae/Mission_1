@@ -25,4 +25,4 @@ public class StudentManager {
     public boolean hasStudent(String name) {
         return students.contains(name);
     }
-} 
+}           
